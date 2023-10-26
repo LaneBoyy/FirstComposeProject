@@ -1,4 +1,4 @@
-package com.laneboy.firstcomposeproject.ui.theme
+package com.laneboy.firstcomposeproject.ui
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
